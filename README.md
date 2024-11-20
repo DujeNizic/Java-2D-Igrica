@@ -23,9 +23,11 @@ Welcome to **2D Adventure Game**, an exciting open-world game where you can expl
 
 ---
 
-## ⚙️ Installation  
-1. Clone or download this repository:  
-   ```bash
-   git clone <repository-url>
-   cd 2DAdventureGame
+## ⚙️ 🚀 Planned Updates 
+1. Enemy AI and a combat system.
+2. Inventory management for collected items.
+3. Advanced quest mechanics and story progression.
+4. Additional shader effects like weather changes and day/night cycles.
+
+---
 
