@@ -1,62 +1,31 @@
+# 2D Adventure Game
 
-2D Adventure Game
-Overview
-This is a 2D adventure game where players can explore an open world filled with interactive NPCs, treasure chests, dynamic animations, and immersive shaders. 
-The game features a health bar system and smooth character movement mechanics for a captivating gaming experience.
+## 🌟 Overview  
+Welcome to **2D Adventure Game**, an exciting open-world game where you can explore a vibrant 2D world, interact with NPCs, discover treasure chests, and enjoy immersive visual effects like shaders and animations. Manage your health wisely as you uncover hidden secrets and engage with the environment.
 
-Features
-Exploration: Walk around a vibrant, open 2D world with diverse environments.
+---
 
-NPC Interaction: Talk to various non-playable characters (NPCs) to learn about the story, gather quests, or unlock new areas.
+## ✨ Features  
+- **Exploration**: Navigate through a detailed and colorful 2D world.  
+- **NPC Interaction**: Chat with non-playable characters to uncover the story, get quests, or gain hints.  
+- **Shaders**: Beautiful visual effects like dynamic lighting, shadows, and more.  
+- **Health System**: A health bar that decreases with damage and can be restored with potions or items.  
+- **Treasure Chests**: Open chests scattered throughout the world to find rewards.  
+- **Animations**: Smooth character and world animations for walking, interacting, and opening chests.
 
-Shaders: Stunning visual effects like lighting, shadows, and other post-processing effects for a polished look.
+---
 
-Health System: A health bar that decreases upon taking damage and can be restored through specific items.
+## 🎮 Gameplay  
+1. **Movement**: Use keyboard controls to explore the map.  
+2. **NPC Interaction**: Press the interaction key (**E**) to talk to NPCs.  
+3. **Health Management**: Monitor your health bar and find ways to restore it.  
+4. **Treasure Hunts**: Locate and open chests by pressing **Space** to collect loot.
 
-Treasure Chests: Discover hidden chests filled with loot, like health potions, items, or upgrades.
+---
 
-Animations: Fluid animations for walking, talking, opening chests, and combat, adding depth to the experience.
+## ⚙️ Installation  
+1. Clone or download this repository:  
+   ```bash
+   git clone <repository-url>
+   cd 2DAdventureGame
 
-Gameplay
-Movement: Use arrow keys (or customizable keys) to move your character across the map.
-
-NPC Interaction: Approach an NPC and press the interaction key (e.g., E) to start a dialogue.
-
-Health Management: Keep an eye on your health bar. Find potions in chests or buy them from merchants to heal.
-
-Treasure Hunts: Locate and open treasure chests for rewards by pressing Space near them.
-
-Installation
-
-Clone or download the repository.
-
-Controls
-Action	Key
-Move Left	Left Arrow / A
-Move Right	Right Arrow / D
-Move Up	Up Arrow / W
-Move Down	Down Arrow / S
-Interact	E
-Open Chest	Space
-Assets & Credits
-
-Sprites: Custom-made character and NPC sprites.
-
-Shaders: Inspired by Shader Tutorials.
-
-Sound Effects: Licensed under CC0 License.
-
-Planned Updates
-
-Combat system with enemies and weapons.
-Inventory management for collected items.
-Enhanced NPC AI and quest system.
-Additional shader effects like day/night cycles.
-
-Contribution
-Feel free to fork the repository and contribute! Open a pull request with a description of the changes you'd like to propose.
-
-License
-This game is licensed under Duje Nizić.
-
-Enjoy the adventure and don't forget to explore every corner for hidden secrets! 🌟
